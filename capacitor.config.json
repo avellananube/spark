@@ -1,0 +1,6 @@
+{
+  "appId": "com.spark.client",
+  "appName": "spark",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
